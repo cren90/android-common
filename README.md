@@ -2,7 +2,7 @@
 Android SDK helpers
 
 ### Specs
-[![](https://jitpack.io/v/cren90/LiveDataKTX.svg)](https://jitpack.io/#cren90/LiveDataKTX) [![API](https://img.shields.io/badge/API-16%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=16) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![](https://jitpack.io/v/cren90/android-common.svg)](https://jitpack.io/#cren90/android-common) [![API](https://img.shields.io/badge/API-23%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=23) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # Download
 
@@ -22,7 +22,7 @@ allprojects {
 dependencies {
     // other dependencies here
     
-	        implementation 'com.github.cren90:android-library-template:<version>'
+	        implementation 'com.github.cren90:android-common:<version>'
 	}
 ```
 
